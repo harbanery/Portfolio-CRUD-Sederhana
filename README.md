@@ -1,5 +1,3 @@
-For my file project, just go to branch master.
-
 # Portfolio-CRUD-Sederhana
 
 1. Tampilan tabel data produk (index.php)
@@ -20,3 +18,11 @@ For my file project, just go to branch master.
 
 5. Tampilan modal hapus data produk
 ![index php - Tampilan modal hapus data produk](https://github.com/harbanery/Portfolio-CRUD-Sederhana/assets/89146375/9293894f-122a-4693-8863-f72b014cf936)
+
+
+For my file project, just go to branch master or https://github.com/harbanery/Portfolio-CRUD-Sederhana/tree/master.
+
+My requirements:
+Laravel 9 (as Framework)
+MySQL Workbench 8.0 (as Database)
+Visual Studio Code
