@@ -1,9 +1,12 @@
 For my file project, just go to master branch or https://github.com/harbanery/Portfolio-CRUD-Sederhana/tree/master.
 
 My requirements:
-Laravel 9 (as Framework)
-MySQL Workbench 8.0 (as Database)
-Visual Studio Code
+<br>
+<ul>
+  <li>Laravel 9 (as Framework)</li>
+  <li>MySQL Workbench 8.0 (as Database)</li>
+  <li>Visual Studio Code</li>
+</ul>
 
 Reference:
 <br>
